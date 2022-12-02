@@ -1,0 +1,60 @@
+.white {
+    color: #ffffff;
+}
+
+.yellow {
+    color: #fff692;
+}
+
+.darkerblue {
+    color: #037998;
+}
+
+.lighterblue-background {
+    background-color: #00bade;
+}
+
+.gray-background {
+    background-color: #f1f1f1
+}
+
+a {
+    font-family: 'Anton', sans-serif;
+    font-size: 18pt;
+    color: white !important;
+}
+
+.space {
+    height: 550px;
+}
+
+.rounded {
+    border-radius: 25px !important;
+}
+
+legend {
+    font-family: 'Anton', sans-serif;
+    font-size: 18pt;
+    color: black !important;
+}
+
+label {
+    font-family: 'Anton', sans-serif;
+    font-size: 14pt;
+    color: black !important;
+}
+
+input::placeholder {
+    font-family: 'Inter', sans-serif;
+    font-size: 12pt;
+    color: #00bade !important;
+}
+
+button {
+    font-family: 'Anton', sans-serif;
+    font-size: 14pt;
+}
+
+button:hover {
+    background-color: #fff692;
+}

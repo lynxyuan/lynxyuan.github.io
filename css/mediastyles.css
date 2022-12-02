@@ -1,0 +1,29 @@
+.white {
+    color: #ffffff;
+}
+
+.yellow {
+    color: #fff692;
+}
+
+.darkerblue {
+    color: #037998;
+}
+
+.lighterblue-background {
+    background-color: #00bade;
+}
+
+.gray-background {
+    background-color: #f1f1f1
+}
+
+a {
+    font-family: 'Anton', sans-serif;
+    font-size: 18pt;
+    color: white !important;
+}
+
+.space {
+    height: 2000px;
+}
